@@ -1,4 +1,4 @@
-# Podcast landing page
+# Podcast Tech.Blockchain Afr
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
