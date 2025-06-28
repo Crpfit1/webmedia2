@@ -10,7 +10,7 @@ export default function TeamPage() {
   const teamMembers = [
     {
       id: 1,
-      name: "Ayémou Essouba Loïc-Yvan",
+      name: "Ayémou Essoubo Loïc-Yvan",
       role: "Founder & CEO",
       location: "Abidjan,Côte D'Ivoire",
       bio: "Après ses études à PIGIER-Côte D'Ivoire, Ayémou décroche une Licence en Communication & Développement des Marques. Passionné par la Tech, il rejoint BINANCE au poste de Community Manager, puis Operations Manager pour le département Afrique Francophone. Au cours de l'année 2023, Ayémou décroche une nouvelle position chez IZICHANGE en tant que Directeur Pays pour la filiale de Côte d'Ivoire et développe ses actions autour du B2B. Aujourd'hui Ayémou porte le titre de Blockchain Project Manager et contribue à l'éclosion de projets Blockchain en Afrique Francophone.",
