@@ -188,7 +188,7 @@ export default function EvenementsPage() {
                       </div>
                     </div>
                     <Link
-                      href="https://chat.whatsapp.com/C2cdpMqlrHkC1jYi9JzcNf"
+                      href="https://www.eventbrite.com/e/africa-trading-cup-2025-tickets-1417808275719"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
